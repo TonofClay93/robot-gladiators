@@ -195,6 +195,7 @@ var shop = function () {
       shop();
       break;
   }
+  
 };
 
 
